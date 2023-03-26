@@ -1,4 +1,4 @@
-# cakery_reports
+# Cakery_Reports
 
 # Welcome to our Cakery App project
 
